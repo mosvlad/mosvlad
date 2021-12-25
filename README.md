@@ -8,7 +8,7 @@
 - 🏢 I'm currently working at **DEVAR**
 - ⚙️ I use daily: `*.cpp`, `*.py`
 - 👁Library that i most used: **OpenCV**
-- 🎸 Like play guitar
+- 🎸 I like to play the guitar
 - 🗻 I'm a huge fan of Dark Tower by Stephen King
 
 
