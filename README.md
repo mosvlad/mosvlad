@@ -11,8 +11,8 @@
 - 🎸 I like to play the guitar
 - 🗻 I'm a huge fan of Dark Tower by Stephen King
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosvlad&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosvlad)](https://git.io/streak-stats)
+![mosvlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosvlad&count_private=true)
+
 
 #### Languages i speak:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
