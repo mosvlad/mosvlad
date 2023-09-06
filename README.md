@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name Vlad and i'm 28 y.o. computer vision c++/python developer. Also interested in machine learning and artificial intelligence. 
+#### My name Vlad and i'm 29 y.o. computer vision c++/python developer. Also interested in machine learning and artificial intelligence. 
 
 - ✨ Crafted last [randommusic](https://randommusic.insomnia247.nl/) website;
 
