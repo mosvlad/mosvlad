@@ -1,69 +1,84 @@
-### Hi there 👋
-#### My name Vlad and i'm 31 y.o. computer vision c++/python developer. Also interested in machine learning and artificial intelligence. 
+<h1 align="center">Hi, I'm Vlad 👋</h1>
 
-- ✨ Crafted last [randommusic](https://randommusic.insomnia247.nl/) website;
-
-##### BIO
-
-- 🏢 I'm currently working at **DEVAR**
-- ⚙️ I use daily: `*.cpp`, `*.py`
-- 👁 Library that i most used: **OpenCV**
-- 🎸 I like to play the guitar
-- 🗻 I'm a huge fan of Dark Tower by Stephen King
-
-![mosvlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosvlad&count_private=true)
-
-
-#### Languages i speak:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-#### Most used libraries:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-#### IDE i used:
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-#### DB i used:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Version contol i used:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-#### OS i used:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/Vladyslavmos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-
-
+<p align="center">
+  <a href="https://github.com/mosvlad">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+ML+Engineer;C%2B%2B+%2F+Python;Augmented+Reality+at+DEVAR;Teaching+machines+to+see+%F0%9F%91%81" alt="Typing SVG"/>
+  </a>
 </p>
 
-<!--
-**mosvlad/mosvlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/Vladyslavmos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mosvlad&style=flat-square&color=7AA2F7&label=Profile+views" alt="Profile views"/>
+  <a href="https://github.com/mosvlad?tab=followers"><img src="https://img.shields.io/github/followers/mosvlad?style=flat-square&color=7AA2F7&logo=github" alt="Followers"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👁 About me
+
+```python
+class Vlad:
+    role       = "Computer Vision & ML Engineer"
+    company    = "DEVAR"            # augmented reality
+    languages  = ["C++", "Python"]
+    daily_tool = "OpenCV"
+    interests  = ["Object detection", "Pose estimation", "AR", "Signal analysis"]
+    hobbies    = ["🎸 Guitar", "🗻 The Dark Tower"]
+
+    def motto(self):
+        return "From research idea to fast production C++ code"
+```
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| 🧠 [**tumor_detection**](https://github.com/mosvlad/tumor_detection) | Brain tumor detection on MRI scans. Transfer learning on Inception-ResNet-v2 (ImageNet weights) with a custom classification head; pretrained weights included | Python · Keras |
+| 💬 [**toxic_transformer**](https://github.com/mosvlad/toxic_transformer) | Transformer-based model for toxic text detection | Python · PyTorch |
+| 🕶 [**augmented-reality-example**](https://github.com/mosvlad/augmented-reality-example) | AR pipeline from scratch: ArUco marker detection, 6-DoF pose estimation and projection of a 3D model onto a live webcam stream | Python · OpenCV |
+| 🎵 [**randommusic**](https://github.com/mosvlad/randommusic) | Web interface for the [randommusic](https://randommusic.insomnia247.nl/) service | PHP |
+
+### 🛠 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mosvlad&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosvlad&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=c%23,shaderlab,hlsl&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mosvlad&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mosvlad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
+
+### 🐍 Snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosvlad/mosvlad/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosvlad/mosvlad/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mosvlad/mosvlad/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  🎸 Off the keyboard I play guitar · 🗻 <i>Long days and pleasant nights</i>
+</p>
